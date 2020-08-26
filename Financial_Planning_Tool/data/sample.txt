@@ -1,0 +1,8 @@
+Currency = $
+Personal = John:45:65:80
+Income = Job:100000,Interest:0
+Tax = married_joint
+Deduction = 401k:10500
+Debt = mortgage:200000:4.0:30,credit:15000:15
+Expense = household:3000,vacation:500,Insurance:1000,Misc:1000
+Asset = Stocks:30000:8,Bonds:10000:3,Real_Estate:0:3,Cash:2000:1

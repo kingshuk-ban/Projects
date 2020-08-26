@@ -1,0 +1,7 @@
+Personal = Kingshuk:45:65:80
+Income = W2:193000,India:8500
+Tax = married_joint
+Deduction = 401k:19500,HSA:7100
+Debt = mortgage:225000:4.125:30,credit:0:15
+Expense = household:4500,vacation:500,pti:900,misc:400
+Asset = Stocks:130000:8,Bonds:18000:5,Real_Estate:16000:6,Cash:90000:1

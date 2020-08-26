@@ -1,0 +1,8 @@
+Currency = Rs.
+Personal = John:45:65:80
+Income = Job:2000000,Interest:20000
+Tax = married_joint
+Deduction = 80C:150000,80D:20000
+Debt = mortgage:3000000:9:30,credit:100000:15
+Expense = household:30000,vacation:8000,pti:10000,misc:5000
+Asset = Stocks:300000:8,Bonds:20000:5,Real_Estate:0:6,Cash:100000:3

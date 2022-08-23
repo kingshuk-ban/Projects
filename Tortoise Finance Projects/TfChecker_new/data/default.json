@@ -1,0 +1,43 @@
+{
+    "personal": {
+        "currency": "$",
+        "name": "Jesse Little",
+        "age": 28,
+        "retire":50,
+        "risk": 80,
+        "output": "html"
+    },
+    "income": {
+        "w2": 50000,
+        "other": 0
+    },
+    "tax": "single",
+    "deduction": {
+        "401k": 2500,
+        "HSA": 0
+    },
+    "debt": {
+        "mortgage": [
+            109000.0,
+            2.875,
+            30
+        ],
+        "credit": [
+            0,
+            15
+        ]
+    },
+    "expense": {
+        "living": 400,
+        "car payment": 500,
+        "property taxes etc": 400,
+        "misc": 100
+    },
+    "asset": {
+        "stocks": [27000, 9.0],
+        "bonds": [0, 4.0],
+        "real": [0, 3.0],
+        "cash": [1000, 0.5]
+    }
+}
+

@@ -1,0 +1,8 @@
+Currency = Rs.
+Personal = Kingshuk:45:65:80
+Income = Job:4000000,Interest:0
+Tax = married_joint
+Deduction = 80C:150000,80D:20000
+Debt = mortgage:0:9:30,credit:0:15
+Expense = household:100000,vacation:20000,pti:15000,misc:5000
+Asset = Stocks:600000:10,Bonds:20000:5,Real_Estate:1000000:1,Cash:5000:3

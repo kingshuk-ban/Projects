@@ -1,0 +1,8 @@
+Currency = $
+Personal = Kingshuk:45:65:80
+Income = Job:100000,Interest:0
+Tax = married_joint
+Deduction = 401k:19500,HSA:7100
+Debt = mortgage:200000:2.875:30,credit:0:15
+Expense = household:5000,vacation:500,pti:1000,misc:1000
+Asset = Stocks:20000:8,Bonds:0:3,Real_Estate:100000:3,Cash:30000:1

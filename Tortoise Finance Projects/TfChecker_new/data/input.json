@@ -1,0 +1,10 @@
+{
+"personal": {"currency":"INR", "name":"Kingshuk", "age":46, "risk":80},
+"income":{"w2":190, "other":30},
+"tax":"married_joint",
+"deduction":{"401k":120,"HSA":40},
+"debt":{"mortgage":[220,4,30],"credit":[15,-1,15]},
+"expense":{"household":45,"vacation":5,"misc":10},
+"asset":{"stocks":60,"bonds":20,"real":10,"cash":15}
+}
+
